@@ -2,9 +2,9 @@
 Universitas Pelita Bangsa - 311910606
 Assalamualaikum, ini adalah pratikum website saya untuk memenuhi tugas dalam mata kuliah Pemrograman Web 
 
-1.[MEMBUAT PARAGRAF] Ini adalah tampilan codingan awal untuk membuat Paragraf
+1. [MEMBUAT PARAGRAF] Ini adalah tampilan codingan awal untuk membuat Paragraf
 
-  ![Screenshot (113)](https://user-images.githubusercontent.com/59770620/112502665-d6ad9400-8dbc-11eb-95a0-fa18ddcb2e88.png)
+   ![Screenshot (113)](https://user-images.githubusercontent.com/59770620/112502665-d6ad9400-8dbc-11eb-95a0-fa18ddcb2e88.png)
 
 2. Hasil/Tampilan ketika dijalankan dibrowser, terlihat ada jarak antara paragraf, dengan menggunakan tag P untuk membuat paragraf
 
