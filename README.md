@@ -40,7 +40,7 @@ Assalamualaikum, ini adalah pratikum website saya untuk memenuhi tugas dalam mat
    
 10. Hasil/tampilan dari codingan ketika dijalankan dibrowser jika text-text tersebut diformat dengan mengunakan tag b yaitu untuk menebalkan, tag mark yaitu untuk menandai text     menjadi warna kuning pada tampilan web, tag i untuk menampilkan text secara garis miring, dan tag u untuk membuat garis bawah pada text 
 
-   ![Screenshot (124)](https://user-images.githubusercontent.com/59770620/112508089-d1067d00-8dc1-11eb-8697-f6354fc817e5.png)
+    ![Screenshot (124)](https://user-images.githubusercontent.com/59770620/112508089-d1067d00-8dc1-11eb-8697-f6354fc817e5.png)
    
 11. [MENYISIPKAN GAMBAR] Ini adalah  Tampilan Codingan untuk menyisipkan gambar/logo universitas pelita bangsa yang terlihat pada halaman web dengan menambahkan judul/heading       ke-tiga
     
@@ -48,7 +48,7 @@ Assalamualaikum, ini adalah pratikum website saya untuk memenuhi tugas dalam mat
     
 12. Hasil/Tampilan dan perubahan dari codingan tersebut ketika dijalankan dibrowser dengan menambahkan judul ketiga diatas gambar dan mengatur ukuran gambar dengan atribut width     200px untuk lebar ukuran foto dan height 200px untuk mengatur tinggi ukuran foto dengan menggunakan syntak style
 
-   ![Screenshot (126)](https://user-images.githubusercontent.com/59770620/112509950-8b4ab400-8dc3-11eb-9f8f-e0c7811f8ab6.png)
+    ![Screenshot (126)](https://user-images.githubusercontent.com/59770620/112509950-8b4ab400-8dc3-11eb-9f8f-e0c7811f8ab6.png)
    
 13. [MENAMBAHKAN HYPERLINK] Ini adalah Tampilan Codingan untuk Menambahkan hyperlink diatas judul pertama atau heading 1
     
